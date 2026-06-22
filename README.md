@@ -2,7 +2,7 @@
 
 > Turning complex risk, control testing and governance into measurable, audit defensible outcomes.
 
-## Senior cyber assurance leader | Third-party risk, control testing & supplier resilience
+## Senior cyber assurance leader | Risk, control testing & supplier resilience
 
 ---
 
