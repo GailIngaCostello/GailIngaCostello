@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Hi, I'm Gail Inga Costello
 
-<!--
-**GailIngaCostello/GailIngaCostello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Turning complex risk, control testing and governance into measurable, audit defensible outcomes.
 
-Here are some ideas to get you started:
+## Senior cyber assurance leader | Third-party risk, control testing & supplier resilience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I specialise in security assurance, risk and control testing across complex enterprise environments.
+
+My focus is on turning control frameworks, evidence and risk indicators into measurable, audit defensible outcomes that support clear decision-making.
+
+---
+
+## 🔐 What I Do
+
+- Assurance across full lifecycle (onboarding → monitoring → offboarding)
+- Evidence-based control testing aligned to SOC 2, ISO 27001, NIS, NIST, Cobit  and risk frameworks
+- Risk identification, assessment and remediation governance
+- KRI driven reporting for senior stakeholders and committees
+- Operational resilience and dependency oversight
+
+---
+
+## 🧠 What Sets My Approach Apart
+
+- Evidence based assurance (no interpretation bias)
+- Clear linkage between control testing and measurable outcomes
+- Audit defensible outputs and traceability
+- Practical frameworks used in real world environments
+- Focus on decision useful reporting (not just compliance)
+
+---
+
+## 📊 Impact Focus
+
+- Reducing high risk exposure
+- Improving control effectiveness
+- Strengthening remediation accountability
+- Enhancing governance visibility
+- Delivering consistent assurance outcomes
+
+---
+
+## 🧩 Frameworks & Standards
+
+- SOC 2 (AICPA Trust Services Criteria)
+- ISO 27001
+- NIST
+- COBIT
+- NIS
+- PCI/DSS
+
+---
+
+## 🛠️ Tools & Platforms
+
+Microsoft Defender | Azure Sentinel | ServiceNow | Tenable | Prisma Access | Intune | EasyDMARC
+
+---
+
+## 📌 What You'll Find Here
+
+This GitHub showcases professional, non-sensitive examples of:
+
+- Third-party security assurance frameworks
+- SOC 2, ISO, NIS, NIST, Cobit control mapping approaches
+- Control testing methodologies
+- Risk reporting models
+- Governance and remediation tracking approaches
+
+  ---
+
+  ## 🤝 Connect
+
+  - Linkedin: [https://linkedin.com/in/gail-costello](https://www.linkedin.com/in/gail-costello-msc-cism-cmiia-cia-a72baa73)
+ 
+  ---
+
+  > Good assurance doesn't just identify risk- it enables better decisions.
