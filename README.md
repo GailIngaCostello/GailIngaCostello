@@ -57,7 +57,7 @@ My focus is on turning control frameworks, evidence and risk indicators into mea
 
 ## 🛠️ Tools & Platforms
 
-Microsoft Defender | Azure Sentinel | ServiceNow | Tenable | Prisma Access | Intune | EasyDMARC
+Microsoft Defender | Azure Sentinel | ServiceNow | Tenable | Prisma Access | Intune | EasyDMARC | Azure | AWS | GCP | GRC Platforms (Surecloud etc)
 
 ---
 
